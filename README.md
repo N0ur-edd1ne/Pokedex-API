@@ -26,11 +26,9 @@ This app was created by "N0ur-edd1ne" as a personal project to learn more about 
 - Material Components for Android for UI components and theming
 
 Contributing
-Contributions to the project are welcome and appreciated! If you find a bug, have a feature request, or want to contribute code or documentation, please open an issue or submit a pull request.
+Contributions to the project are welcome and appreciated ! If you find a bug, have a feature request, or want to contribute code or documentation, please open an issue or submit a pull request.
 
 License
 This project is licensed under the MIT License.
 
 ![List Pokemon](https://user-images.githubusercontent.com/117684844/231906939-ac4647f2-7048-4a46-801e-6aa8690c09c9.jpg)
-![Pokemon 11](https://user-images.githubusercontent.com/117684844/231906946-9c7a87d6-a7cf-4386-91c3-b28ed23986b1.jpg)
-
